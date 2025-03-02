@@ -1,4 +1,4 @@
-# Hi there, I'm AmirParsa Motevalian 👋
+# Hi there, I'm Amirparsa Motevalian 👋
 
 
 I'm a passionate **Flutter Developer** with 1.5 years of experience building cross-platform mobile apps. I love crafting beautiful UIs, writing clean code, and learning new technologies!
